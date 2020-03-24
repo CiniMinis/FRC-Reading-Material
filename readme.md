@@ -1,10 +1,16 @@
 # FRC Reading Material
 
 ### Contents
- - [Software](Topics/Software/readme.md)
- - [Mechanics](Topics/Mechanics/readme.md)
- - [Electronics](Topics/Electronics/readme.md)
- - [CAD](Topics/CAD/readme.md)
+  - [Software](Topics/Software/readme.md)
+  - [Mechanics](Topics/Mechanics/readme.md)
+  - [Electronics](Topics/Electronics/readme.md)
+  - [CAD](Topics/CAD/readme.md)
+
+### General Resources
+  - [FRC Israel's Resources](https://www.firstisrael.org.il/frcresources)
+  - [The Cheesy Poof's Resources](https://www.team254.com/resources/)
+  - [Chief Delphi Forums](https://www.chiefdelphi.com/)
+
 
 ### What is this?
 Due to COVID-19 it seems the 2020 FRC season will remain nutorious as the postponed season.
