@@ -1,10 +1,10 @@
 # FRC Reading Material
 
 ### Contents
- - [Software](Topics/software.md)
- - [Mechanics](Topics/mechanics.md)
- - [Electronics](Topics/electronics.md)
- - [CAD](Topics/cad.md)
+ - [Software](Topics/Software/readme.md)
+ - [Mechanics](Topics/Mechanics/readme.md)
+ - [Electronics](Topics/Electronics/readme.md)
+ - [CAD](Topics/CAD/readme.md)
 
 ### What is this?
 Due to COVID-19 it seems the 2020 FRC season will remain nutorious as the postponed season.
